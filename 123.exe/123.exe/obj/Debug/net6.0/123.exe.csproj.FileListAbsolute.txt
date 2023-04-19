@@ -1,0 +1,15 @@
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.csproj.AssemblyReference.cache
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.AssemblyInfoInputs.cache
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.AssemblyInfo.cs
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.csproj.CoreCompileInputs.cache
+D:\programs\123.exe\123.exe\bin\Debug\net6.0\123.exe.exe
+D:\programs\123.exe\123.exe\bin\Debug\net6.0\123.exe.deps.json
+D:\programs\123.exe\123.exe\bin\Debug\net6.0\123.exe.runtimeconfig.json
+D:\programs\123.exe\123.exe\bin\Debug\net6.0\123.exe.dll
+D:\programs\123.exe\123.exe\bin\Debug\net6.0\123.exe.pdb
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.dll
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\refint\123.exe.dll
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.pdb
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\123.exe.genruntimeconfig.cache
+D:\programs\123.exe\123.exe\obj\Debug\net6.0\ref\123.exe.dll
